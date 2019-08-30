@@ -1,4 +1,4 @@
-# Java--Flask-App
+# Fullstack-Flask-App
 
 Files create a full stack web application. 
 Backend- SQLite file which is connected to via SQLalchemy. Flask is used to create a server to present the JSONified data to the user. 
