@@ -8,4 +8,7 @@ App is hosted on Heroku
 https://belly-button-biodiversity-gsh.herokuapp.com/
 
 
+![Alt text](image.PNG?raw=true "Optional Title")
+
+
 
